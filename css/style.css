@@ -614,7 +614,6 @@ nav {
     font-size: 15px;
     font-weight: 300;
     text-transform: uppercase
-    text-decoration: none
 }
 
 .footer_links_sub {
@@ -632,7 +631,6 @@ nav {
     font-size: 11px;
     font-weight: 300;
     text-transform: uppercase
-    text-decoration: none
 }
 
 .footer_links_lang {
@@ -970,7 +968,7 @@ nav {
     .subheader_btn {
         width: 110px;
         height: 22px;
-        font-size: 8px;
+        font-size: 9px;
         margin-top: 6px
     }
 
@@ -1198,11 +1196,11 @@ nav {
         padding: 0;
         font-size: 14px
     }
-    
-    .footer_wrapper>div .footer_links_main a{
+
+    .footer_wrapper>div .footer_links_main a {
         text-decoration: none
     }
-    
+
     .footer_wrapper>div .footer_links_sub {
         -ms-flex-wrap: wrap;
         flex-wrap: wrap;
@@ -1212,18 +1210,18 @@ nav {
     }
 
     .footer_wrapper>div .footer_links_sub a {
-        margin: 0 7px
-        text-decoration: none
+        margin: 0 7px;
+        text-decoration: none;
     }
 
     .footer_wrapper>div .footer_links_lang {
         margin-top: 10px
     }
-    
-    .footer_wrapper>div .footer_links_lang a{
+
+    .footer_wrapper>div .footer_links_lang a {
         text-decoration: none
     }
-    
+
     .footer_wrapper>div .footer_mobile {
         margin-right: 0;
         margin-left: 20px
