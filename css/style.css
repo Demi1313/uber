@@ -613,7 +613,8 @@ nav {
     color: #070716;
     font-size: 15px;
     font-weight: 300;
-    text-transform: uppercase
+    text-transform: uppercase;
+    text-decoration: none
 }
 
 .footer_links_sub {
@@ -630,7 +631,8 @@ nav {
     color: #999;
     font-size: 11px;
     font-weight: 300;
-    text-transform: uppercase
+    text-transform: uppercase;
+    text-decoration: none
 }
 
 .footer_links_lang {
