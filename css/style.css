@@ -1224,5 +1224,7 @@ nav {
 
     .footer_wrapper>div .footer_mobile {
         margin-right: 0;
+        display: flex;
+        flex-wrap: nowrap
     }
 }
